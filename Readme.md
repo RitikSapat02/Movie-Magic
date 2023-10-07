@@ -11,7 +11,8 @@ series, and search, etc. Added shimmer UI effect, real production API
 integration, and react-routerfor routing between the components,
 carousel, and pagination components from material UI.
 
-•Organization-iNeuron Intelligence Private Limited
+•Organization-iNeuron Intelligence Private Limited 
+
 •Hosted link- https://movie-magic-ten.vercel.app/
 
 
