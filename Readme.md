@@ -1,4 +1,4 @@
-# Movie-Mania-Internship-React-Project| ReactJS, TAILWIND CSS, Material UI, React Router
+# Movie-Magic Project| ReactJS, TAILWIND CSS, Material UI, React Router
 
 •It is a highly performant, optimized as well as fully responsive
 production-ready "Movie Recommendation Application based on
@@ -11,6 +11,7 @@ series, and search, etc. Added shimmer UI effect, real production API
 integration, and react-routerfor routing between the components,
 carousel, and pagination components from material UI.
 
-•Hosted link- https://lnkd.in/d-CuDkRD
-
 •Organization-iNeuron Intelligence Private Limited
+•Hosted link- 
+
+
