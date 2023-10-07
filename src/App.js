@@ -26,7 +26,7 @@ import Series from "./Pages/Series/Series";
 function App() {
   return (
     <div className="App">
-      <Header />
+      // <Header/>
       <Outlet />
       <SimpleBottomNavigation />
     </div>
