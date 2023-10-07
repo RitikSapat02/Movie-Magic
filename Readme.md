@@ -12,6 +12,6 @@ integration, and react-routerfor routing between the components,
 carousel, and pagination components from material UI.
 
 •Organization-iNeuron Intelligence Private Limited
-•Hosted link- 
+•Hosted link- https://movie-magic-ten.vercel.app/
 
 
