@@ -13,6 +13,6 @@ carousel, and pagination components from material UI.
 
 •Organization-iNeuron Intelligence Private Limited 
 
-•Hosted link- https://movie-magic-ten.vercel.app/
+•Hosted link- https://movie-magic-sand.vercel.app/
 
 
