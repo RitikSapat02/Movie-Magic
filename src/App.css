@@ -1,0 +1,11 @@
+/* @import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada:regular,700); */
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:100,200,300,regular,500,600,700,100italic,200italic,300italic,italic,500italic,600italic,700italic);
+ 
+*{
+  scroll-behavior: smooth;
+}
+body{
+  font-family: 'Josefin Sans';
+  background-color: #333333;
+ 
+}
